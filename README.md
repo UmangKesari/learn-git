@@ -4,4 +4,4 @@
 
 # Trainee - Software Consultant
  
-## Generated SSH key
+## Generated SSH key.
